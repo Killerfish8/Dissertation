@@ -73,3 +73,24 @@ Product Container: Type of container used for the product.
 Product Base Margin: Base profit margin for the product.
 Ship Date: Date when the order was shipped.
 Dataset Source:-**Github** (https://raw.githubusercontent.com/curran/data/gh-pages/superstoreSales/superstoreSales.csv)
+
+
+**Dataset 6:-**
+**Objective:** The primary goal of this project is to perform a detailed SQL-based analysis of Walmart's sales data to identify top-performing branches and products. By leveraging insights from this analysis, we aim to optimize sales strategies and improve overall business performance. The dataset used for this project is sourced from Kaggle's Walmart Sales Forecasting Competition.
+
+**Dataset Description:-** The dataset includes historical sales data from various Walmart stores across different departments. The key attributes of the dataset are:
+Store: Store number.
+Dept: Department number.
+Date: The date of the sales.
+Weekly_Sales: Sales for the given department in the given store.
+IsHoliday: Whether the date is a special holiday week.
+Additional datasets that can complement this analysis might include:
+Features: This dataset might include attributes such as:
+Temperature: Average temperature in the region.
+Fuel_Price: Cost of fuel in the region.
+MarkDown1-5: Data related to promotional markdowns.
+CPI: Consumer Price Index.
+Unemployment: Unemployment rate in the region.
+
+Dataset Source:-**Kaggle**
+
