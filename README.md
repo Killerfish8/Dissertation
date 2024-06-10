@@ -35,3 +35,5 @@ Dataset Source:- **IBM**
 **Price Each:** Price per unit of the product.
 **Order Date:** Date and time when the order was placed.
 **Purchase Address:** Address where the product was delivered.
+
+Dataset Source:-**Github** (https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/all_data.csv)
