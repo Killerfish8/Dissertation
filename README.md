@@ -45,3 +45,31 @@ Dataset Source:-**Github** (https://github.com/sanjanand06/Electronic-Sales-Data
 
 Dataset Source:-**Github** (https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/blob/main/src/data/us_monthly_retail_sales_wrangled.csv)
 
+
+
+**Dataset 5:-**
+**Objective:** The primary goal of this project is to conduct a comprehensive analysis of the sales records from a superstore. By examining various facets of the sales data, we aim to uncover insights that can guide strategic business decisions, optimize operations, and enhance customer satisfaction.
+
+**Dataset Description:-** The dataset contains detailed information about 8399 orders from a superstore. Each row represents an individual order with the following attributes:
+Row ID: Unique identifier for the row.
+Order ID: Unique identifier for each order.
+Order Date: Date when the order was placed.
+Order Priority: Priority level of the order (e.g., High, Medium, Low).
+Order Quantity: Number of units ordered.
+Sales: Total sales amount for the order.
+Discount: Discount applied to the order.
+Ship Mode: Mode of shipping (e.g., Standard, Express).
+Profit: Profit earned from the order.
+Unit Price: Price per unit of the product.
+Shipping Cost: Cost incurred for shipping the order.
+Customer Name: Name of the customer.
+Province: Province where the order was shipped.
+Region: Region where the order was shipped.
+Customer Segment: Segment to which the customer belongs (e.g., Consumer, Corporate).
+Product Category: Category of the product ordered.
+Product Sub-Category: Sub-category of the product ordered.
+Product Name: Name of the product.
+Product Container: Type of container used for the product.
+Product Base Margin: Base profit margin for the product.
+Ship Date: Date when the order was shipped.
+Dataset Source:-**Github** (https://raw.githubusercontent.com/curran/data/gh-pages/superstoreSales/superstoreSales.csv)
