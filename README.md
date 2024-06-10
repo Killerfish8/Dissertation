@@ -22,3 +22,16 @@ IBM Watson Studio Sample Datasets - A collection of sample datasets available di
 
 
 Dataset Source:- **IBM**
+
+
+**Dateset 3:-**
+**Problem Management for Electronic Sales Data Analysis**
+**Problem Statement:** The goal is to analyze the sales data of electronic components for the year 2019 to derive important business insights. By examining sales trends, product performance, and customer purchasing behavior, we aim to provide actionable recommendations to optimize sales strategies, improve marketing efforts, and enhance inventory management.
+
+**Dataset Overview:-** The dataset consists of monthly sales records for electronic components from January to December 2019. Each month's data is stored in a separate CSV file. The dataset includes the following columns:
+**Order ID:** Unique identifier for each order.
+**Product:** Name of the product sold.
+**Quantity Ordered:** Number of units ordered.
+**Price Each:** Price per unit of the product.
+**Order Date:** Date and time when the order was placed.
+**Purchase Address:** Address where the product was delivered.
