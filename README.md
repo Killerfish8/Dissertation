@@ -6,13 +6,6 @@ In the competitive landscape of modern commerce, effective sales management is c
 Dataset Source:- **INeuron**
 
 
-
-
-
-
-
-
-
 **Dateset 2:-**
 **Sales Dataset from IBM**
 IBM provides various datasets for use with Watson Machine Learning and other data science projects. One commonly referenced dataset is the "GoSales Transactions" dataset, which contains sales data that can be used for predictive analytics and machine learning.
@@ -22,7 +15,6 @@ IBM Watson Studio Sample Datasets - A collection of sample datasets available di
 
 
 Dataset Source:- **IBM**
-
 
 **Dateset 3:-**
 **Problem Management for Electronic Sales Data Analysis**
@@ -37,3 +29,19 @@ Dataset Source:- **IBM**
 **Purchase Address:** Address where the product was delivered.
 
 Dataset Source:-**Github** (https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/all_data.csv)
+
+
+
+**Dataset 4:- Problem Management for Retail and Food Services Sales Data Analysis**
+
+**Problem Statement:-** The goal is to analyze and visualize the historical sales data for Retail and Food Services in the U.S.A. The data, sourced from the U.S. government website and processed using SQL, will be examined based on NAICS codes and categories. The project aims to explore trends, identify key insights, and provide actionable recommendations for stakeholders.
+
+**Dataset Overview:-** The dataset used in this project includes historical sales data for Retail and Food Services in the U.S.A. Key features of the dataset are:
+**NAICS Code:** Identifies the industry classification.
+**Category:** Specifies the type of retail or food service.
+**Sales Figures:** Provides sales amounts.
+**Geographical Regions:** Indicates the regions within the U.S.A.
+**Time Period:** Covers monthly or yearly sales data.
+
+Dataset Source:-**Github** (https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/blob/main/src/data/us_monthly_retail_sales_wrangled.csv)
+
